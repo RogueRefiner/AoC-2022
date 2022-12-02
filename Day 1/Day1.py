@@ -1,5 +1,5 @@
 def main():
-    file = 'C:\\Users\\fabio\\OneDrive\\Desktop\\Uni\\VS Code Projects\\Python\\AoC\\Day 1\\input.txt'
+    file = 'input.txt'
     print(part1(file))
     print(part2(file))
 
